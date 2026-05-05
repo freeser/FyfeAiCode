@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>AICode-01-Langchain4j-Demo01</module>
+        <module>AICode-Langchain4j-Demo01</module>
     </modules>
 
     <properties>

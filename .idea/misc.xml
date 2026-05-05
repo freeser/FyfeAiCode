@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-Langchain4j-SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/AICode-Langchain4j-Memory/pom.xml" />
       </list>
     </option>
   </component>

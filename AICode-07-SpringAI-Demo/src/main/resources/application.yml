@@ -1,0 +1,12 @@
+spring:
+  ai:
+    dashscope:
+      chat:
+        options:
+          model: qwen3-max # 配置聊天的模型名称
+      api-key: sk-8de8b8e9f68048b18bf58c582b0cd2cc # 配置百炼平台的api-key
+    deepseek:
+      chat:
+        options:
+          model: deepseek-chat # 配置deepseek上的模型
+      api-key: sk-ca0b2dc9e0ca461cab4ca0dbd62c841b # 配置deepseek的apikey

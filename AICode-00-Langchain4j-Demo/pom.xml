@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>AICode-Langchain4j-Demo01</artifactId>
+    <artifactId>AICode-00-Langchain4j-Demo</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

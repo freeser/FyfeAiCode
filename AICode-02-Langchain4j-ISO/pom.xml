@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.fyfe</groupId>
-    <artifactId>AICocd-Langchain4j-Tools</artifactId>
+    <artifactId>AICode-02-Langchain4j-ISO</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>AICocd-Langchain4j-Tools</name>
-    <description>AICocd-Langchain4j-Tools</description>
+    <name>AICode-Langchain4j-ISO</name>
+    <description>AICode-Langchain4j-ISO</description>
     <url/>
     <licenses>
         <license/>

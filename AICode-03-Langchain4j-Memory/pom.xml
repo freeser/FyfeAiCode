@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.fyfe</groupId>
-    <artifactId>AICode-Langchain4j-ISO</artifactId>
+    <artifactId>AICode-03-Langchain4j-Memory</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>AICode-Langchain4j-ISO</name>
-    <description>AICode-Langchain4j-ISO</description>
+    <name>AICode-Langchain4j-Memory</name>
+    <description>AICode-Langchain4j-Memory</description>
     <url/>
     <licenses>
         <license/>

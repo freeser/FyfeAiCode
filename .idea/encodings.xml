@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/AICocd-04-Langchain4j-Tools/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AICode-00-Langchain4j-Demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AICode-00-Langchain4j-Demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AICode-01-Langchain4j-SpringBoot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AICode-02-Langchain4j-ISO/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AICode-03-Langchain4j-Memory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AICode-04-Langchain4j-Tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AICode-06-SpringAI-Ollama/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AICode-07-SpringAI-Demo/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/AICode-SpringAI-Ollama/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

@@ -10,6 +10,12 @@
     <packaging>pom</packaging>
     <modules>
         <module>AICode-00-Langchain4j-Demo</module>
+        <module>AICode-01-Langchain4j-SpringBoot</module>
+        <module>AICode-02-Langchain4j-ISO</module>
+        <module>AICode-03-Langchain4j-Memory</module>
+        <module>AICode-04-Langchain4j-Tools</module>
+        <module>AICode-06-SpringAI-Ollama</module>
+        <module>AICode-07-SpringAI-Demo</module>
     </modules>
 
     <properties>

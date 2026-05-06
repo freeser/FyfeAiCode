@@ -11,6 +11,10 @@
         <option value="$PROJECT_DIR$/AICocd-Langchain4j-Tools/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-SpringAI-Ollama/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-07-SpringAI-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/AICode-03-Langchain4j-Memory/pom.xml" />
+        <option value="$PROJECT_DIR$/AICode-02-Langchain4j-ISO/pom.xml" />
+        <option value="$PROJECT_DIR$/AICode-01-Langchain4j-SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/AICocd-04-Langchain4j-Tools/pom.xml" />
       </list>
     </option>
   </component>

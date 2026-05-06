@@ -18,6 +18,7 @@
         <module>AICode-07-SpringAI-Demo</module>
         <module>AICode-08-SpringAI-SSE</module>
         <module>AICode-09-SpringAI-Prompt</module>
+        <module>AICode-10-SpringAI-Memory</module>
     </modules>
 
     <properties>

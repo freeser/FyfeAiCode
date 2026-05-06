@@ -11,8 +11,8 @@
     <groupId>com.fyfe</groupId>
     <artifactId>AICode-01-Langchain4j-SpringBoot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>AICode-Langchain4j-SpringBoot</name>
-    <description>AICode-Langchain4j-SpringBoot</description>
+    <name>AICode-01-Langchain4j-SpringBoot</name>
+    <description>AICode-01-Langchain4j-SpringBoot</description>
     <url/>
     <licenses>
         <license/>

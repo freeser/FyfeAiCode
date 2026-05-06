@@ -16,6 +16,8 @@
         <module>AICode-04-Langchain4j-Tools</module>
         <module>AICode-06-SpringAI-Ollama</module>
         <module>AICode-07-SpringAI-Demo</module>
+        <module>AICode-08-SpringAI-SSE</module>
+        <module>AICode-09-SpringAI-Prompt</module>
     </modules>
 
     <properties>

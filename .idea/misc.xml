@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/AICode-08-SpringAI-SSE/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-09-SpringAI-Prompt/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-10-SpringAI-Memory/pom.xml" />
+        <option value="$PROJECT_DIR$/AICode-11-SpringAI-Memory-Redis/pom.xml" />
       </list>
     </option>
   </component>

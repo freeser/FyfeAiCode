@@ -1,0 +1,13 @@
+spring:
+  ai:
+    dashscope:
+      chat:
+        options:
+          model: qwen3-max # 配置聊天的模型名称
+      api-key: sk-8de8b8e9f68048b18bf58c582b0cd2cc # 配置百炼平台的api-key
+  data:
+    redis:
+      host: 39.106.204.224
+      port: 6379
+      password: 123456
+

@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.fyfe</groupId>
-    <artifactId>AICode-Langchain4j-SpringBoot</artifactId>
+    <artifactId>AICode-01-Langchain4j-SpringBoot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>AICode-Langchain4j-SpringBoot</name>
     <description>AICode-Langchain4j-SpringBoot</description>

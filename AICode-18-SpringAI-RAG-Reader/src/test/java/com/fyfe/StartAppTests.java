@@ -21,7 +21,7 @@ public class StartAppTests {
     }
 
     @Test
-    public void test02(@Value("classpath:files/122315717-陆雨生-投诉举报工单管理系统的设计与实现.docx") Resource resource) {
+    public void test02(@Value("classpath:files/投诉举报工单管理系统的设计与实现.docx") Resource resource) {
         // 采用PDF读取器读取对应的PDF文件
         List<Document> documents = new TikaDocumentReader(resource).read();
         documents.forEach(System.out::println);

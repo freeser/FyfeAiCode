@@ -20,6 +20,9 @@
         <module>AICode-09-SpringAI-Prompt</module>
         <module>AICode-10-SpringAI-Memory</module>
         <module>AICode-11-SpringAI-Memory-Redis</module>
+        <module>AICode-12-SpringAI-Memory-JDBC</module>
+        <module>AICode-13-SpringAI-Memory-ISO</module>
+        <module>AICode-14-SpringAI-Memory-Forget</module>
     </modules>
 
     <properties>

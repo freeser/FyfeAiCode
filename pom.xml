@@ -25,6 +25,7 @@
         <module>AICode-14-SpringAI-Memory-Forget</module>
         <module>AICode-15-SpringAI-Memory-PII</module>
         <module>AICode-16-SpringAI-RAG-Embdding</module>
+        <module>AICode-17-SpringAI-RAG-Milvus</module>
     </modules>
 
     <properties>

@@ -24,6 +24,7 @@
         <module>AICode-13-SpringAI-Memory-ISO</module>
         <module>AICode-14-SpringAI-Memory-Forget</module>
         <module>AICode-15-SpringAI-Memory-PII</module>
+        <module>AICode-16-SpringAI-RAG-Embdding</module>
     </modules>
 
     <properties>

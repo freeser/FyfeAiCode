@@ -25,6 +25,7 @@
         <option value="$PROJECT_DIR$/AICode-15-SpringAI-Memory-PII/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-16-SpringAI-RAG-Embdding/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-17-SpringAI-RAG-Milvus/pom.xml" />
+        <option value="$PROJECT_DIR$/AICode-18-SpringAI-RAG-Reader/pom.xml" />
       </list>
     </option>
   </component>

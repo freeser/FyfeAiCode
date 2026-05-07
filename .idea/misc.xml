@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/AICode-12-SpringAI-Memory-JDBC/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-13-SpringAI-Memory-ISO/pom.xml" />
         <option value="$PROJECT_DIR$/AICode-14-SpringAI-Memory-Forget/pom.xml" />
+        <option value="$PROJECT_DIR$/AICode-15-SpringAI-Memory-PII/pom.xml" />
       </list>
     </option>
   </component>

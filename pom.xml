@@ -27,6 +27,9 @@
         <module>AICode-16-SpringAI-RAG-Embdding</module>
         <module>AICode-17-SpringAI-RAG-Milvus</module>
         <module>AICode-18-SpringAI-RAG-Reader</module>
+        <module>AICode-19-SpringAI-RAG-Spliter</module>
+        <module>AICode-20-SpringAI-RAG-Matedata</module>
+        <module>AICode-21-SpringAI-RAG-Rewrite</module>
     </modules>
 
     <properties>

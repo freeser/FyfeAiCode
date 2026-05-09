@@ -30,6 +30,8 @@
         <module>AICode-19-SpringAI-RAG-Spliter</module>
         <module>AICode-20-SpringAI-RAG-Matedata</module>
         <module>AICode-21-SpringAI-RAG-Rewrite</module>
+        <module>AICode-22-SpringAI-Tool-Structured</module>
+        <module>AICode-23-SpringAI-Tool-Calling</module>
     </modules>
 
     <properties>
